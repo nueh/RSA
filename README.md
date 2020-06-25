@@ -7,3 +7,6 @@ BASIC files should compile – despite the age – using [QB64](https://www.qb64
 
 Encryption on a TRS-80:
 ![BYTE encryption on a TRS-80](enc-trs80.gif)
+
+Decryption on a TRS-80:
+![BYTE decryption on a TRS-80](dec-trs80.gif)
